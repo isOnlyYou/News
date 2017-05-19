@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_color">#000000</color>
+    <color name="fm_wd">#383838</color>
+    <color name="background_color">#FFFFFF</color>
+    <color name="view_color">#F0F0F0</color>
+    <color name="hint_color">#999999</color>
+    <color name="title_color">#D43D3D</color>
+
+    <color name="colorPrimary_night">#3b3b3b</color>
+    <color name="colorPrimaryDark_night">#383838</color>
+    <color name="colorAccent_night">#a72b55</color>
+    <color name="text_color_night">#FFFFFF</color>
+    <color name="fm_wd_night">#3B3B3B</color>
+    <color name="background_color_night">#3B3B3B</color>
+    <color name="view_color_night">#000000</color>
+    <color name="hint_color_night">#FFFFFF</color>
+    <color name="title_color_night">#a72b55</color>
+
+
+    <color name="nightColorPrimary">#3b3b3b</color>
+    <color name="nightColorPrimaryDark">#383838</color>
+    <color name="nightColorAccent">#a72b55</color>
+
+</resources>

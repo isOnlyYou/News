@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="mainBackground" format="color|reference"></attr>
+
+    <!--<attr name="zzbackground" format="color|reference"/>
+    <attr name="zzbackgroundDrawable" format="reference"/>
+    <attr name="zztextColor" format="color"/>
+    &lt;!&ndash;<attr name="zzItemBackground" format="color"/>&ndash;&gt;
+
+    <attr name="fm_wd" format="color|reference"/>
+    <attr name="view_color" format="color|reference"/>
+    <attr name="title_color" format="color|reference"/>
+    <attr name="hint_color" format="color"/>-->
+
+</resources>

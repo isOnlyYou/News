@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/mainBackground"
+    >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/main_frame_layout">
+    </FrameLayout>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal"
+        android:id="@+id/main_rg">
+        <RadioButton
+            style="@style/main_rb_style"
+            android:text="@string/main_rb_text_sy"
+            android:drawableTop="@drawable/main_rb_sy_selector"
+            android:textColor="@drawable/main_rb_tx_selector"
+            android:id="@+id/main_rb_sy"
+            />
+        <RadioButton
+            style="@style/main_rb_style"
+            android:text="@string/main_rb_text_sp"
+            android:drawableTop="@drawable/main_rb_sp_selector"
+            android:textColor="@drawable/main_rb_tx_selector"
+            android:id="@+id/main_rb_sp"
+            />
+        <RadioButton
+            style="@style/main_rb_style"
+            android:text="@string/main_rb_text_gz"
+            android:drawableTop="@drawable/main_rb_gz_selector"
+            android:textColor="@drawable/main_rb_tx_selector"
+            android:id="@+id/main_rb_gz"
+            />
+        <RadioButton
+            android:text="@string/main_rb_text_wd"
+            android:drawableTop="@drawable/main_rb_wd_selector"
+            android:textColor="@drawable/main_rb_tx_selector"
+            android:id="@+id/main_rb_wd"
+            style="@style/main_rb_style" />
+    </RadioGroup>
+
+</LinearLayout>
